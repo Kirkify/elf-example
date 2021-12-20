@@ -14,7 +14,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@elf-example/user-service": ["libs/user-service/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

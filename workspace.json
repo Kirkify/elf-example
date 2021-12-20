@@ -1,4 +1,10 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "angularapp": "apps/angularapp",
+    "angularapp-e2e": "apps/angularapp-e2e",
+    "reactapp": "apps/reactapp",
+    "reactapp-e2e": "apps/reactapp-e2e",
+    "user-service": "libs/user-service"
+  }
 }
